@@ -3,3 +3,4 @@ plazo 6 meses
 
 1. aprender a programar los basico entre sql,c#,.net, git, postman, entity framework
 2. pagar 5 millones en deudas
+3. ver a mi hijo cada 15 dias
