@@ -1,0 +1,4 @@
+esta es una lista de algunsde mis rioridades a corto plazo
+plazo 6 meses
+
+1. aprender a programar los basico entre sql,c#,.net, git, postman, entity framework
